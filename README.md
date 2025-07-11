@@ -19,7 +19,6 @@ Build and evaluate a **Decision Tree Classifier** to:
 * **Name:** bank.csv
 * **Source:** [UCI Bank Marketing Dataset](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing)
 * **Includes features such as:**
-
   * Age, Job, Marital Status, Education
   * Credit Default, Housing Loan, Personal Loan
   * Contact Type, Month, Day, Duration
